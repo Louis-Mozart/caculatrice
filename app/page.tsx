@@ -6,10 +6,10 @@ export default function Home() {
       <div className="w-full max-w-md">
         <div className="text-center mb-8">
           <h1 className="text-4xl font-bold text-gray-800 dark:text-white mb-2">
-            Calculator
+            Yves Mbezoa
           </h1>
           <p className="text-gray-600 dark:text-gray-400">
-            Built with Next.js & Tailwind CSS
+            Built with ❤️ using Next.js & Tailwind CSS 
           </p>
         </div>
         <Calculator />
